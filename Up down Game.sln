@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Up down Game", "Up down Game\Up down Game.csproj", "{80517786-FDD9-4628-AF1A-9393DA7AAE9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{099EBD91-319A-48EB-B6FF-B901BDDF0E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80517786-FDD9-4628-AF1A-9393DA7AAE9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80517786-FDD9-4628-AF1A-9393DA7AAE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80517786-FDD9-4628-AF1A-9393DA7AAE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80517786-FDD9-4628-AF1A-9393DA7AAE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A5D5CB5-5190-47EE-83CF-01CFC96147F6}
+	EndGlobalSection
+EndGlobal
