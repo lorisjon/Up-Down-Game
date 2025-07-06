@@ -62,7 +62,7 @@ This short tutorial shows how to:
 
 You can download and try the game right away:
 
-➡️ [Download Installer (.exe)](downloads/UpDownGameInstaller.exe)
+➡️ [Download Installer (.exe)](downloads/up_down_game_Installer.exe)
 
 ---
 
