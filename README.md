@@ -21,6 +21,20 @@ Each successful touch:
 
 ---
 
+## 📘 Tutorial
+
+Not sure how the game works? Here's a quick walkthrough:
+
+![Tutorial GIF](assets/tutorial.gif)
+
+This short tutorial shows how to:
+- Start the game
+- Switch direction at the right moment
+- Score points
+- Avoid obstacles
+
+---
+
 ## 🧠 Features
 
 - Smooth and responsive 2D controls  
@@ -28,6 +42,7 @@ Each successful touch:
 - Random obstacle sizes and spawn sides  
 - Local **highscore system**  
 - **Level system** with background color changes  
+- **Sound effects and background music**  
 - Game Over screen with restart option  
 - Built-in tutorial to onboard new players  
 
@@ -61,17 +76,9 @@ You can download and try the game right away:
 
 ---
 
-## ✏️ Future Ideas
-
-- Sound effects & music  
-- Online leaderboard  
-- Power-ups or special modes  
-
----
-
 ## 📸 Fun to Watch, Fun to Play
 
-If you just want to get a quick feel for the game, check out the GIF at the top.  
+If you just want to get a quick feel for the game, check out the GIFs above.  
 It's simple to understand – but tricky to master!
 
 ---
@@ -80,7 +87,13 @@ It's simple to understand – but tricky to master!
 
 Up-Down-Game/
 ├── assets/ # Gameplay GIFs and screenshots
+│ ├── updown-gameplay.gif
+│ ├── tutorial.gif
+│ ├── start.png
+│ ├── action.png
+│ └── gameover.png
 ├── downloads/ # Installer for the game
+│ └── UpDownGameInstaller.exe
 ├── GameProjectFiles/ # All relevant code and resources
 ├── Up Down Game.sln # Solution file
 └── README.md # This file
