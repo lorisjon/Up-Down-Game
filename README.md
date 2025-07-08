@@ -86,14 +86,14 @@ It's simple to understand – but tricky to master!
 ## 📁 Folder Structure
 
 Up-Down-Game/<br/>
-├── assets/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Gameplay GIFs and screenshots<br/>
-│&nbsp;&nbsp;&nbsp;├── updown-gameplay.gif<br/>
-│&nbsp;&nbsp;&nbsp;├── tutorial.gif<br/>
-│&nbsp;&nbsp;&nbsp;├── start.png<br/>
-│&nbsp;&nbsp;&nbsp;├── action.png<br/>
-│&nbsp;&nbsp;&nbsp;└── gameover.png<br/>
-├── downloads/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Installer for the game<br/>
-│&nbsp;&nbsp;&nbsp;└── UpDownGameInstaller.exe<br/>
-├── GameProjectFiles/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# All relevant code and resources<br/>
-├── Up Down Game.sln &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Solution file<br/>
-└── README.md &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# This file
+├── assets/ # Gameplay GIFs and screenshots<br/>
+│   ├── updown-gameplay.gif<br/>
+│   ├── tutorial.gif<br/>
+│   ├── start.png<br/>
+│   ├── action.png<br/>
+│   └── gameover.png<br/>
+├── downloads/ # Installer for the game<br/>
+│   └── UpDownGameInstaller.exe<br/>
+├── GameProjectFiles/ # All relevant code and resources<br/>
+├── Up Down Game.sln # Solution file<br/>
+└── README.md # This file
