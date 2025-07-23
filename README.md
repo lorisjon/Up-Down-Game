@@ -1,3 +1,5 @@
+![C#](https://img.shields.io/badge/C%23-B33A3A?style=for-the-badge&logo=csharp&logoColor=white)
+![Game](https://img.shields.io/badge/Game-2B2D42?style=for-the-badge)
 # Up-Down-Game
 
 ![Gameplay GIF](assets/updown-gameplay.gif)
