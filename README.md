@@ -79,7 +79,7 @@ You can download and try the game right away:
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **C#**  
 - **Windows Forms / WinForms**  
@@ -96,7 +96,7 @@ It's simple to understand – but tricky to master!
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 Up-Down-Game/<br/>
 ├── assets/ # Gameplay GIFs and screenshots<br/>
