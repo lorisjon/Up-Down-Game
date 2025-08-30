@@ -55,17 +55,17 @@ This short tutorial shows how to:
 ## 🖥️ Screenshots
 
 ### Game Start
-<img src="assets/start.png" alt="Gamestart screenshot" width="50%"/>
+<img src="assets/start.png" alt="Gamestart screenshot" width="70%"/>
 <!-- ![Gamestart screenshot](assets/start.png)
  -->
 
  
 ### In Action
-<img src="assets/action.png" alt="In Action screenshot" width="50%"/>
+<img src="assets/action.png" alt="In Action screenshot" width="70%"/>
 
 
 ### Game Over
-<img src="assets/gameover.png" alt="Game Over screenshot" width="50%"/>
+<img src="assets/gameover.png" alt="Game Over screenshot" width="70%"/>
 
 
 ---
