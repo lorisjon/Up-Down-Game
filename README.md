@@ -55,6 +55,7 @@ This short tutorial shows how to:
 ## 🖥️ Screenshots
 
 ### Game Start
+<img src="assets/start.png" widht="70%">
 ![Gamestart screenshot](assets/start.png)
 
 ### In Action
