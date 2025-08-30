@@ -68,11 +68,6 @@ This short tutorial shows how to:
 <img src="assets/gameover.png" alt="Game Over screenshot" width="70%"/>
 
 
----
-
-| Game Start | In Action | Game Over |
-|-----------|-----------|------------|
-| ![](assets/start.png) | ![](assets/action.png) | ![](assets/gameover.png) |
 
 ---
 
