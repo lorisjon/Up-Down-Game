@@ -7,11 +7,11 @@
 ![Gameplay GIF](assets/updown-gameplay.gif)
 
 **A fast-paced reflex game where your goal is simple:**  
-🟢 Move between the top and bottom bars to score points – and dodge everything in your way.
+Move between the top and bottom bars to score points – and dodge everything in your way.
 
 ---
 
-## 🎮 Gameplay Overview
+## Gameplay Overview
 
 You control a ball that automatically moves up or down. Your job is to:
 - Switch directions by pressing `Space` or clicking.
@@ -25,7 +25,7 @@ Each successful touch:
 
 ---
 
-## 📘 Tutorial
+## Tutorial
 
 Not sure how the game works? Here's a quick walkthrough:
 
@@ -39,7 +39,7 @@ This short tutorial shows how to:
 
 ---
 
-## 🧠 Features
+## Features
 
 - Smooth and responsive 2D controls  
 - Dynamic difficulty: speed and obstacle count increase as you play  
@@ -52,7 +52,7 @@ This short tutorial shows how to:
 
 ---
 
-## 🖥️ Screenshots
+## Screenshots
 
 ### Game Start
 <img src="assets/start.png" alt="Gamestart screenshot" width="70%"/>
@@ -71,11 +71,11 @@ This short tutorial shows how to:
 
 ---
 
-## 📦 Download
+## Download
 
 You can download and try the game right away:
 
-➡️ [Download Installer (.exe)](downloads/up_down_game_Installer.exe)
+➡ [Download Installer (.exe)](downloads/up_down_game_Installer.exe)
 
 ---
 
@@ -89,7 +89,7 @@ You can download and try the game right away:
 
 ---
 
-## 📸 Fun to Watch, Fun to Play
+## Fun to Watch, Fun to Play
 
 If you just want to get a quick feel for the game, check out the GIFs above.  
 It's simple to understand – but tricky to master!
