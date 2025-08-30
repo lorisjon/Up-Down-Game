@@ -58,11 +58,15 @@ This short tutorial shows how to:
 <img src="assets/start.png" alt="Gamestart screenshot" width="50%"/>
 <!-- ![Gamestart screenshot](assets/start.png)
  -->
+
+ 
 ### In Action
-![In Action screenshot](assets/action.png)
+<img src="assets/action.png" alt="In Action screenshot" width="50%"/>
+
 
 ### Game Over
-[Game Over screenshot](assets/gameover.png)
+<img src="assets/gameover.png" alt="Game Over screenshot" width="50%"/>
+
 
 ---
 
