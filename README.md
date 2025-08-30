@@ -63,6 +63,8 @@ This short tutorial shows how to:
 ### Game Over
 [Game Over screenshot](assets/gameover.png)
 
+---
+
 | Game Start | In Action | Game Over |
 |-----------|-----------|------------|
 | ![](assets/start.png) | ![](assets/action.png) | ![](assets/gameover.png) |
