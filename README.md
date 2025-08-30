@@ -54,6 +54,15 @@ This short tutorial shows how to:
 
 ## 🖥️ Screenshots
 
+### Game Start
+![Gamestart screenshot](assets/start.png)
+
+### In Action
+![In Action screenshot](assets/action.png)
+
+### Game Over
+[Game Over screenshot](assets/gameover.png)
+
 | Game Start | In Action | Game Over |
 |-----------|-----------|------------|
 | ![](assets/start.png) | ![](assets/action.png) | ![](assets/gameover.png) |
