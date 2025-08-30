@@ -58,8 +58,6 @@ This short tutorial shows how to:
 |-----------|-----------|------------|
 | ![](assets/start.png) | ![](assets/action.png) | ![](assets/gameover.png) |
 
-*(Optional – add these screenshots to the `assets/` folder and name them entsprechend.)*
-
 ---
 
 ## 📦 Download
